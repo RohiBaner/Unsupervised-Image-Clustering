@@ -4,7 +4,7 @@ Unsupervised Learning can be defined as a class of Machine Learning where differ
 
 
 ## 1. Getting Started ##
-Before running this code, please make sure that you download all the images in the link (https://www.dropbox.com/sh/gr2istwq2qrnjy8/AAD2dP8T57hQnDvh1UW-3wZUa?dl=0) and store them in a folder called **images**. This folder needs to be kept in the same directory as the code.
+Before running this code, please make sure that you download all the images in the [link](https://www.dropbox.com/sh/gr2istwq2qrnjy8/AAD2dP8T57hQnDvh1UW-3wZUa?dl=0) and store them in a folder called **images**. This folder needs to be kept in the same directory as the code.
 In this assignment, the code reads 5011 images, preprocesses them, extracts features, and then clusters them accordingly. This takes some time, so please be patient. On a GPU enabled system, it will take about 20-25 mins to run.
 
 ### 1.1. Prerequisites ###
